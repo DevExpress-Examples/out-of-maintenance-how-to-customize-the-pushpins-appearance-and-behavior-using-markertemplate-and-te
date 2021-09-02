@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MapPushpinTemplate", "MapPushpinTemplate\MapPushpinTemplate.vbproj", "{8B6763FB-583C-4E09-BE4E-8475C064AEBF}"
 EndProject
